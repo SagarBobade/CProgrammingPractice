@@ -17,6 +17,7 @@ void program_13() {
 		scanf("%d", &arr[i]);
 	}
 
+	printf("Printing Array in reverse order-> ");
 	for (int i = size-1; i >= 0; i--) {
 		printf("%d ", arr[i]);
 	}
