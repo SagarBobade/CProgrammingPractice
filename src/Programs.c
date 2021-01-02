@@ -2,12 +2,7 @@
 
 int main() {
 
-<<<<<<< HEAD
-	program_12();
-
-=======
-	program_11();
->>>>>>> stash
+	program_13();
 
 	return 0;
 }
