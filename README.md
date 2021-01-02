@@ -14,6 +14,7 @@
 ### [Program_12 - Accepts size of an array. Accepts array elements and prints them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_12.c)<br/>
 ### [Program_13 - Accepts size of an array. Accepts array elements and prints them in reverse order.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_13.c)<br/>
 ### [Program_14 - Accepts size of an array. Accepts array elements and Adds them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_14.c)<br/>
+### [Program_15 - Accepts size of an array. Accepts array elements and Adds them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_15.c)<br/>
 
 ## Open issues
 ```diff
