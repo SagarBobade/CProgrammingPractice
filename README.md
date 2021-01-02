@@ -1,6 +1,6 @@
 # CProgrammingPractice
 
-### [Program_01 - Prints Hellow world... on console.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Program_01.c)<br/>
+### [Program_01 - Prints Hello world... on console.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Program_01.c)<br/>
 ### [Program_02 - Accepts number from user and prints it.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Program_02.c)<br/>
 ### [Program_03 - Accepts number from user and prints whether it is Odd or Even.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Program_03.c)<br/>
 ### [Program_04 - Accepts two numbers from user and swaps them using third variable.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Program_04.c)<br/>
