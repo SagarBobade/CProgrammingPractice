@@ -4,13 +4,13 @@
 
 void program_07() {
 
-	int a, i, ans;
+	int no, i, ans;
 
 	printf("Enter Number: ");
-	scanf("%d", &a);
+	scanf("%d", &no);
 	i = 10;
 	while (i != 0) {
-		ans = a * i;
+		ans = no * i;
 		printf("%d\n", ans);
 		i--;
 	}

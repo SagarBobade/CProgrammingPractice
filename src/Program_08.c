@@ -4,16 +4,16 @@
 
 void program_08() {
 
-	int a, d;
+	int no, d;
 	int ans = 0;
 
 	printf("Enter Number: ");
-	scanf("%d", &a);
+	scanf("%d", &no);
 
-	while (a !=0) {
-		d = a % 10;
+	while (no != 0) {
+		d = no % 10;
 		ans = ans + d;
-		a = a / 10;
+		no = no / 10;
 	}
 	printf("%d", ans);
 

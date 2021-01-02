@@ -2,16 +2,15 @@
 
 void program_03() {
 
-	int num;
+	int no;
 
 	printf("Enter a Number: ");
-	scanf("%d", &num);
+	scanf("%d", &no);
 
-	if(num % 2 == 0){
-	printf("Even");
-	}
-	else{
-	printf("Odd");
+	if (no % 2 == 0) {
+		printf("Even");
+	} else {
+		printf("Odd");
 	}
 
 }

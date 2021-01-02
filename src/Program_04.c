@@ -4,22 +4,22 @@
 
 void program_04() {
 
-	int a, b, temp;
+	int no1, no2, temp;
 
 	printf("Enter Number in A: ");
-	scanf("%d", &a);
+	scanf("%d", &no1);
 
 	printf("Enter Number in B: ");
-	scanf("%d", &b);
+	scanf("%d", &no2);
 
-	printf("\nBefore swap: \nA= %d\n", a);
-	printf("B= %d\n", b);
+	printf("\nBefore swap: \nA= %d\n", no1);
+	printf("B= %d\n", no2);
 
-	temp = a;
-	a = b;
-	b = temp;
+	temp = no1;
+	no1 = no2;
+	no2 = temp;
 
-	printf("After swap: \nA=%d\n", a);
-	printf("B=%d", b);
+	printf("After swap: \nA=%d\n", no1);
+	printf("B=%d", no2);
 
 }

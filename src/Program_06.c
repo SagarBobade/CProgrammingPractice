@@ -4,17 +4,17 @@
 
 void program_06() {
 
-	int a, i, factorial;
+	int no, i, factorial;
 
 	printf("Enter Number: ");
-	scanf("%d", &a);
+	scanf("%d", &no);
 
-	i = a;
+	i = no;
 	while (i != 0) {
 		factorial = factorial * i;
 		i--;
 	}
 
-	printf("Factorial of %d is= %d", a, factorial);
+	printf("Factorial of %d is= %d", no, factorial);
 
 }

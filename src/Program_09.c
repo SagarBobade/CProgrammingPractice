@@ -5,22 +5,22 @@
 
 void program_09() {
 
-	int a, d;
+	int no, d;
 	int ans = 0;
 	bool flag = true;
 
 	printf("Enter Number: ");
-	scanf("%d", &a);
+	scanf("%d", &no);
 
 //	if (flag == true) {
 //		flag=false;
-		while (ans >= 9) {
-			while (a != 0) {
-				d = a % 10;
-				ans = ans + d;
-				a = a / 10;
-			}
-			printf("%d", ans);
+	while (ans >= 9) {
+		while (no != 0) {
+			d = no % 10;
+			ans = ans + d;
+			no = no / 10;
 		}
+		printf("%d", ans);
+	}
 //	}
 }

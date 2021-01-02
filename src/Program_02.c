@@ -2,10 +2,10 @@
 
 void program_02() {
 
-	int num;
+	int no;
 
 	printf("Enter a Number: ");
-	scanf("%d", &num);
+	scanf("%d", &no);
 
-	printf("You entered: %d", num);
+	printf("You entered: %d", no);
 }

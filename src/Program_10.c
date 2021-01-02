@@ -5,19 +5,19 @@
 
 void program_10() {
 
-	int a, b, ch, ans;
+	int no1, no2, ch, ans;
 
 	printf("Enter Number 1: ");
-	scanf("%d", &a);
+	scanf("%d", &no1);
 
 	printf("Enter Number 2: ");
-	scanf("%d", &b);
+	scanf("%d", &no2);
 
 	printf("You can choose from following -> ");
-	printf("1. Addition of %d and %d", a,b);
-	printf("2. Substraction of %d and %d", a,b);
-	printf("3. Multiplication of %d and %d", a,b);
-	printf("4. Division of %d and %d", a,b);
+	printf("1. Addition of %d and %d", no1, no2);
+	printf("2. Substraction of %d and %d", no1, no2);
+	printf("3. Multiplication of %d and %d", no1, no2);
+	printf("4. Division of %d and %d", no1, no2);
 
 	printf("Enter your choice: ");
 	scanf("%d", &ch);
@@ -25,16 +25,16 @@ void program_10() {
 	switch (ch) {
 
 	case 1:
-		ans = a + b;
+		ans = no1 + no2;
 		break;
 	case 2:
-		ans = a - b;
+		ans = no1 - no2;
 		break;
 	case 3:
-		ans = a * b;
+		ans = no1 * no2;
 		break;
 	case 4:
-		ans = a / b;
+		ans = no1 / no2;
 		break;
 
 	}
