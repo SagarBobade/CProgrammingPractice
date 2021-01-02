@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include<stdbool.h>
 
-void program_14() {
+void arrayProgram_03() {
 
 	int size, sum = 0;
 

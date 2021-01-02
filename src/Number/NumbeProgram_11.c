@@ -1,9 +1,8 @@
 /* Below program accept a number and print it's digits in reverse order. */
 
 #include <stdio.h>
-#include<stdbool.h>
 
-void program_11() {
+void NumbeProgram_11() {
 
 	int no = 0, reverse = 0, digit = 0;
 

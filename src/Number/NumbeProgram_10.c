@@ -1,9 +1,8 @@
 /* Below program accepts two numbers and creates simple calculator application. */
 
 #include <stdio.h>
-#include<stdbool.h>
 
-void program_10() {
+void NumbeProgram_10() {
 
 	int no1, no2, ch, ans;
 

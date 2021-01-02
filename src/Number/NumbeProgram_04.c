@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void program_04() {
+void NumbeProgram_04() {
 
 	int no1, no2, temp;
 

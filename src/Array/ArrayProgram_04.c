@@ -1,8 +1,8 @@
-/* Below program accepts size of an array. Accepts array elements and finds difference between smallest and largest. */
+/* Below program accepts size of an array. Accepts array elements and finds smallest and largest. */
 
 #include <stdio.h>
 
-void program_16() {
+void arrayProgram_04() {
 
 	int size = 0;
 	int smallest, largest, temp = 0;
@@ -33,8 +33,7 @@ void program_16() {
 		}
 	}
 
-	printf(
-			"Difference between Smallest and Largest element from an array is: %d\n",
-			largest - smallest);
+	printf("Smallest element from an array: %d\n", smallest);
+	printf("Largest element from an array: %d\n", largest);
 
 }
