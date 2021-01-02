@@ -15,6 +15,7 @@
 ### [Program_13 - Accepts size of an array. Accepts array elements and prints them in reverse order.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_13.c)<br/>
 ### [Program_14 - Accepts size of an array. Accepts array elements and Adds them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_14.c)<br/>
 ### [Program_15 - Accepts size of an array. Accepts array elements and finds smallest and largest.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_15.c)<br/>
+### [Program_16 - Accepts size of an array. Accepts array elements and finds difference between smallest and largest.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_16.c)<br/>
 
 ## Open issues
 ```diff
