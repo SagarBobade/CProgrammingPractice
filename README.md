@@ -11,8 +11,8 @@
 ### [Program_09 - Accept a number and print its addition of digits till addition becomes single digit.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Number/Program_09.c)<br/>
 ### [Program_10 - Accepts two numbers and creates simple calculator application.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Number/Program_10.c)<br/>
 ### [Program_11 - Accept a number and print it's digits in reverse order.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Number/Program_11.c)<br/>
-### [Program_12 - Accepts size of an array. Accepts array elements and prints them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Number/Program_12.c)<br/>
-### [Program_13 - Accepts size of an array. Accepts array elements and prints them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Number/Program_13.c)<br/>
+### [Program_12 - Accepts size of an array. Accepts array elements and prints them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_12.c)<br/>
+### [Program_13 - Accepts size of an array. Accepts array elements and prints them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_13.c)<br/>
 
 ## Open issues
 ```diff
