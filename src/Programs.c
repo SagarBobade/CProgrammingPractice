@@ -2,7 +2,7 @@
 
 int main() {
 
-	numberProgram_12();
+	numberProgram_04();
 
 	return 0;
 }
