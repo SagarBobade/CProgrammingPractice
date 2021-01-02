@@ -20,6 +20,7 @@
 ### [ArrayProgram_03 - Accepts size of an array. Accepts array elements and Adds them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/ArrayProgram_03.c)<br/>
 ### [ArrayProgram_04 - Accepts size of an array. Accepts array elements and finds smallest and largest.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/ArrayProgram_04.c)<br/>
 ### [ArrayProgram_05 - Accepts size of an array. Accepts array elements and finds difference between smallest and largest.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/ArrayProgram_05.c)<br/>
+### [ArrayProgram_06 - Accepts size of an array. Accepts array elements and make copy of them in another array.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/ArrayProgram_06.c)<br/>
 
 ## Open issues
 ```diff
