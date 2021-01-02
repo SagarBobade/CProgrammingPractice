@@ -1,4 +1,4 @@
-/* Below program accepts Text and number from user and prints it. */
+/* Below program accepts two numbers from user and swaps them using third variable. */
 
 #include <stdio.h>
 

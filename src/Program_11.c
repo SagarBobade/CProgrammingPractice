@@ -1,4 +1,4 @@
-/* Below program accept a number and print it's digits in reverse. */
+/* Below program accept a number and print it's digits in reverse order. */
 
 #include <stdio.h>
 #include<stdbool.h>

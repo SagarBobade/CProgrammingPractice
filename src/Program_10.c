@@ -1,4 +1,4 @@
-/* Below program accept a number and print its addtion of digits. */
+/* Below program accepts two numbers and creates simple calculator application. */
 
 #include <stdio.h>
 #include<stdbool.h>

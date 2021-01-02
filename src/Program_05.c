@@ -1,4 +1,4 @@
-/* Below program swaps 2 numbers without using 3rd variable. */
+/* Below program accepts two numbers from user and swaps them without using third variable. */
 
 #include <stdio.h>
 

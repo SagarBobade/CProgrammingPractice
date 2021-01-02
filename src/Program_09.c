@@ -1,4 +1,4 @@
-/* Below program accept a number and print its addtion of digits. */
+/* Below program accept a number and print its addition of digits till addition becomes single digit. */
 
 #include <stdio.h>
 #include<stdbool.h>

@@ -1,4 +1,4 @@
-/* Below program accepts Text and number from user and prints it. */
+/* Below program accepts number from user and prints whether it is Odd or Even. */
 
 void program_03() {
 

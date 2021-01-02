@@ -1,4 +1,4 @@
-/* Below function prints the text on console */
+/* Below function prints Hellow world... on console */
 
 void program_01() {
 
