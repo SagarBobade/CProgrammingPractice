@@ -1,4 +1,4 @@
-/* Below program accepts size of an array. Accepts array elements and prints them. */
+/* Below program accepts size of an array. Accepts array elements and prints them in reverse order. */
 
 #include <stdio.h>
 #include<stdbool.h>
