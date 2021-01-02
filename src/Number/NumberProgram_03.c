@@ -1,6 +1,6 @@
 /* Below program accepts number from user and prints whether it is Odd or Even. */
 
-void NumbeProgram_03() {
+void numberProgram_03() {
 
 	int no;
 

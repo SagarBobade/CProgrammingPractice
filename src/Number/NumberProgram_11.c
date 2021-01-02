@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void NumbeProgram_11() {
+void numberProgram_11() {
 
 	int no = 0, reverse = 0, digit = 0;
 

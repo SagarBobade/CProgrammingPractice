@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include<stdbool.h>
 
-void NumbeProgram_09() {
+void numberProgram_09() {
 
 	int no, d;
 	int ans = 0;

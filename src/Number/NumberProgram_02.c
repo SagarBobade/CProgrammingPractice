@@ -1,6 +1,6 @@
 /* Below program accepts number from user and prints it. */
 
-void numbeProgram_02() {
+void numberProgram_02() {
 
 	int no;
 

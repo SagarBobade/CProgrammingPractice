@@ -1,6 +1,6 @@
 /* Below function prints Hellow world... on console */
 
-void numbeprogram_01() {
+void numberProgram_01() {
 
 	printf("Hello world...");
 

@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void NumbeProgram_06() {
+void numberProgram_06() {
 
 	int no, i, factorial;
 

@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void NumbeProgram_08() {
+void numberProgram_08() {
 
 	int no, d;
 	int ans = 0;
