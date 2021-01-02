@@ -13,7 +13,7 @@
 ### [Program_11 - Accept a number and print it's digits in reverse order.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Number/Program_11.c)<br/>
 ### [Program_12 - Accepts size of an array. Accepts array elements and prints them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_12.c)<br/>
 ### [Program_13 - Accepts size of an array. Accepts array elements and prints them in reverse order.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_13.c)<br/>
-
+### [Program_14 - Accepts size of an array. Accepts array elements and Adds them.](https://github.com/SagarBobade/CProgrammingPractice/blob/master/src/Array/Program_14.c)<br/>
 
 ## Open issues
 ```diff
@@ -29,6 +29,8 @@
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
+
+## Enahancements to do
 
 ## Authors
 SagarBobade
