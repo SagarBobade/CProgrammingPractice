@@ -24,7 +24,7 @@
 
 ## Open issues
 ```diff
-- 9th program is not completed. Unable to set Logic.
+- NumberProgram_09.c program is not completed. Unable to set Logic.
 ```
 
 
